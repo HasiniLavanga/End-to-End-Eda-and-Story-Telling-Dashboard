@@ -1,2 +1,19 @@
-# End-to-End-Eda-and-Story-Telling-Dashboard
-An end-to-end Exploratory Data Analysis (EDA) project using Python, Pandas, and visualization libraries to analyze a housing dataset. It includes data cleaning, statistical analysis, and interactive insights, culminating in a Streamlit dashboard for effective data storytelling and business understanding.
+# End-to-End EDA & Storytelling Dashboard
+
+## 📊 Project Overview
+This project performs exploratory data analysis on housing data and presents insights using an interactive dashboard.
+
+## 🚀 Features
+- Data Cleaning
+- Univariate & Bivariate Analysis
+- Statistical Testing
+- Interactive Dashboard
+
+## 🛠 Tools Used
+Python, Pandas, Plotly, Streamlit
+
+## 🌐 Live Demo
+(Add your link here later)
+
+## 👩‍💻 Author
+Hasini Lavanga
